@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.ikms.timetracker" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>AAGIT Mobile</name>
+     <description>
+        AAGIT Time Tracking Mobile Application
+    </description>
+ 
+    <author email="cpratt@ikmsgroup.com" href="http://www.ikmsgroup.com">
+        Apache Cordova Team
+    </author>
+    <preference name="phonegap-version" value="3.6.3" />
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
